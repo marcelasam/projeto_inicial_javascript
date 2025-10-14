@@ -43,9 +43,6 @@ O jogo foi desenvolvido como parte do projeto de aprendizagem, utilizando concei
 - Funções
 - Lógica de programação
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
