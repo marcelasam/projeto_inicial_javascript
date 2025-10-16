@@ -1,4 +1,4 @@
-# Projeto Inicial JavaScript
+# Projeto Lógica de Programação com JavaScript
 
 Este é um projeto de aprendizagem em JavaScript do curso de Lógica de Programação da Alura, que inclui exercícios práticos e um jogo interativo desenvolvido durante o curso.
 
